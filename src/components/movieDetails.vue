@@ -12,7 +12,7 @@
         <div class="relative z-10 grid grid-cols-1 md:grid-cols-3 gap-8 p-6 md:p-10">
           
           <div class="flex justify-center md:justify-start">
-            <div class="w-64 md:w-full aspect-[2/3] rounded-xl overflow-hidden shadow-lg border border-slate-700 transform transition duration-300 hover:scale-[1.02]">
+            <div class="w-64 md:w-full aspect-2/3 rounded-xl overflow-hidden shadow-lg border border-slate-700 transform transition duration-300 hover:scale-[1.02]">
               <img :src="movie.poster" :alt="movie.title" class="w-full h-full object-cover" />
             </div>
           </div>

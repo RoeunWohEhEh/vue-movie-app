@@ -36,7 +36,7 @@
         :to="`/moviedetail/${item.id}`" 
         class="bg-zinc-900 rounded-lg overflow-hidden shadow-lg hover:scale-102 transition-transform duration-300 block"
       >
-        <div class="relative aspect-[2/3] bg-zinc-800">
+        <div class="relative aspect-2/3 bg-zinc-800">
           <img :src="item.poster || item.image" :alt="item.title" class="w-full h-full object-cover">
           <span class="absolute top-2 right-2 bg-yellow-500 text-black text-xs font-bold px-2 py-1 rounded">
             {{ item.rating }}
