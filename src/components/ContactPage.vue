@@ -3,7 +3,7 @@
     
     <!-- Header -->
     <div class="bg-black py-16 text-center">
-      <h1 class="text-5xl font-bold text-red-600">
+      <h1 class="text-5xl font-bold text-yellow-600">
         Contact Us
       </h1>
 
@@ -29,7 +29,7 @@
         <div class="space-y-6">
 
           <div class="flex items-center gap-4">
-            <div class="bg-red-600 p-3 rounded-full">
+            <div class="bg-yellow-600 p-3 rounded-full">
               📍
             </div>
 
@@ -45,7 +45,7 @@
           </div>
 
           <div class="flex items-center gap-4">
-            <div class="bg-red-600 p-3 rounded-full">
+            <div class="bg-yellow-600 p-3 rounded-full">
               📧
             </div>
 
@@ -61,7 +61,7 @@
           </div>
 
           <div class="flex items-center gap-4">
-            <div class="bg-red-600 p-3 rounded-full">
+            <div class="bg-yellow-600 p-3 rounded-full">
               📞
             </div>
 
@@ -92,7 +92,7 @@
             <input
               type="text"
               placeholder="Enter your name"
-              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-red-600"
+              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-yellow-600"
             />
           </div>
 
@@ -104,7 +104,7 @@
             <input
               type="email"
               placeholder="Enter your email"
-              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-red-600"
+              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-yellow-600"
             />
           </div>
 
@@ -116,13 +116,13 @@
             <textarea
               rows="5"
               placeholder="Write your message..."
-              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-red-600"
+              class="w-full p-4 rounded-lg bg-gray-800 border border-gray-700 focus:outline-none focus:border-yellow-600"
             ></textarea>
           </div>
 
           <button
             type="submit"
-            class="w-full bg-red-600 hover:bg-red-700 transition py-4 rounded-lg font-semibold"
+            class="w-full bg-yellow-600 hover:bg-yellow-700 transition py-4 rounded-lg font-semibold"
           >
             Send Message
           </button>

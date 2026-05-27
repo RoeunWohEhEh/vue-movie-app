@@ -4,10 +4,7 @@ import ContactPage from '@/components/ContactPage.vue'
 import MoviesPage from '@/components/MoviesPage.vue'
 import Homepage from '@/components/HomePage.vue'
 import { createRouter, createWebHistory } from 'vue-router'
-import SignInPage from '@/components/SignInPage.vue'
-
-
-
+import MovieDetails from '@/components/movieDetails.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -35,13 +32,15 @@ const router = createRouter({
       component: ContactPage,
     },
     {
-       path: '/signin',
-      name:'signin',
-      component: SignInPage,
+      path:'/moviedetail/:id',
+      name:'MovieDetails',
+      component:MovieDetails,
+      props:true
     }
 
     
   ]
+  
 })
 
 export default router
