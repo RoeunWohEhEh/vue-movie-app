@@ -10,7 +10,7 @@
         <div class="movie-info">
           <h1 class="font-bold">{{ movie.title }}</h1>
           <p>{{ movie.desc }}</p>
-          <button class="btn" style="background-color: crimson; padding: 5px 10px; border-radius: 2px; font-weight:bold; margin-top: 10px;">
+          <button class="bg-yellow-500 w-50 mt-3 p-2 rounded-sm shadow-xs hover:shadow-yellow-500 hover:">
             Watch Now
           </button>
         </div>
@@ -42,6 +42,137 @@
 
     </div>
   </section>
+
+  <!-- footer -->
+  <footer class="bg-black text-white pt-16 pb-8 px-4 md:px-12 lg:px-24 font-sans relative">
+    <!-- Main Footer Content -->
+    <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
+      
+      <!-- Column 1: Brand & About & Contact -->
+      <div class="space-y-6">
+        <div>
+          <img class="logoFilm brightness-0 invert" :src="logoUrl" alt="Site Logo" >
+          <p class="text-xs text-gray-400 mt-1">Your Tagline here</p>
+        </div>
+        
+        <div>
+          <h3 class="text-[#ff9900] font-semibold text-lg mb-2">About Us</h3>
+          <p class="text-sm text-gray-300 leading-relaxed max-w-xs">
+            We want to help bring talented students and unique startups together.
+          </p>
+        </div>
+        
+        <div>
+          <h3 class="text-[#ff9900] font-semibold text-lg mb-3">Contact Us</h3>
+          <div class="space-y-2 text-sm text-gray-300">
+            <div class="flex items-center gap-3">
+              <!-- Phone Icon -->
+              <svg class="w-4 h-4 text-[#ff9900]" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M21.384 17.791l-3.765-1.613c-.61-.261-1.314-.11-1.762.338l-1.63 1.63c-3.111-1.583-5.653-4.125-7.236-7.236l1.63-1.63c.448-.448.599-1.152.338-1.762L7.346 1.756A1.5 1.5 0 005.616 1h-3A1.5 1.5 0 001.12 2.56c.725 9.948 8.617 17.84 18.565 18.565a1.5 1.5 0 001.558-1.496v-3a1.5 1.5 0 00-.859-1.338z"/>
+              </svg>
+              <span>+91 9999 999 999</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <!-- Mail Icon -->
+              <svg class="w-4 h-4 text-[#ff9900]" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+              </svg>
+              <span>youremailid.com</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Column 2: Information Links -->
+      <div>
+        <h3 class="text-[#ff9900] font-semibold text-lg mb-4">Information</h3>
+        <ul class="space-y-2 text-sm text-gray-300">
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">About Us</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">More Search</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Blog</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Testimonials</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Events</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 3: Helpful Links -->
+      <div>
+        <h3 class="text-[#ff9900] font-semibold text-lg mb-4">Helpful Links</h3>
+        <ul class="space-y-2 text-sm text-gray-300">
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Services</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Supports</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Terms & Condition</a></li>
+          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Privacy Policy</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 4: Newsletter Subscription -->
+      <div class="flex flex-col justify-between">
+        <div class="space-y-4">
+          <h3 class="text-white font-medium text-base">Subscribe More Info</h3>
+          <div class="relative max-w-xs">
+            <span class="absolute inset-y-0 left-0 flex items-center pl-3">
+              <!-- Input Mail Icon -->
+              <svg class="w-4 h-4 text-gray-600" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+              </svg>
+            </span>
+            <input 
+              type="email" 
+              placeholder="Enter your Email" 
+              class="w-full bg-white text-black pl-10 pr-4 py-2.5 rounded-sm focus:outline-none text-sm placeholder-gray-500"
+            />
+          </div>
+          <button class="bg-[#ff9900] text-white px-6 py-2 rounded-sm text-sm font-medium hover:bg-[#e68a00] transition-colors shadow-md">
+            Subscribe
+          </button>
+        </div>
+
+        <!-- Back to Top Arrow Button -->
+        <div class="flex justify-end mt-6 lg:mt-0">
+          <a href="#" class="bg-[#ff9900] p-2 rounded-sm hover:bg-[#e68a00] transition-colors" aria-label="Back to top">
+            <svg class="w-4 h-4 text-black font-bold" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+            </svg>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Divider Line -->
+    <div class="border-t border-gray-800 max-w-7xl mx-auto my-6"></div>
+
+    <!-- Bottom Bar: Social Media & Copyright -->
+    <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+      
+      <!-- Social Icons Container (Centered) -->
+      <div class="flex justify-center items-center gap-3 md:flex-1 md:pl-32">
+        <!-- Facebook -->
+        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+          <i class="fa-brands fa-facebook"></i>
+        </a>
+        <!-- Google+ -->
+        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+          <i class="fa-brands fa-tiktok"></i>
+        </a>
+        <!-- Twitter -->
+        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+          <i class="fa-brands fa-instagram"></i>
+        </a>
+        <!-- Instagram -->
+        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+          <i class="fa-brands fa-twitter"></i>
+        </a>
+      </div>
+
+      <!-- Copyright (Right Aligned) -->
+      <div class="text-xs text-gray-400 text-center md:text-right">
+        2018 &copy; company.Ltd. All Right reserved
+      </div>
+
+    </div>
+  </footer>
 </template>
 
 <script>
@@ -55,37 +186,38 @@ export default {
   },
   data() {
     return {
+      logoUrl: "src/components/film.png",
       // 1. Swiper Slider Data
       movies: [
         {
           image: "https://i.pinimg.com/1200x/8a/01/59/8a015975df909a24d6b0c0d6377e1bf2.jpg",
-          title: "Avengers",
-          desc: "Earth’s mightiest heroes fight to save the world.",
+          title: "MICHAEL",
+          desc: "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
         },
         {
           image: "https://edmondtownhall.org/wp-content/uploads/2026/04/goat-1.png",
-          title: "Batman",
-          desc: "The dark knight rises to protect Gotham city.",
+          title: "GOAT",
+          desc: "A young anthropomorphic goat named Will Harris dreams of playing roar-ball, a high-intensity, animalistic version of basketball dominated by much larger, fiercer creatures. After a video of Will challenging the league's MVP, Mane Attraction, goes viral, he is recruited as a marketing tactic for the struggling Vineland Thorns.",
         },
         {
           image: "https://m.media-amazon.com/images/S/pv-target-images/52cf86f6994526923cac7dfba13b97a1b247560ccbf40edef2fd56daa24e3572.jpg",
-          title: "Spider Man",
-          desc: "A young hero learns responsibility and courage.",
+          title: "HOPPERS",
+          desc: "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
         },
         {
           image: "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQ5-l5fHQfFiVZy6zw0iTsnMVNpSA6ybc7WuQjMrFaM3pz7Xo-SYltJsFn5tmSPIDaMXtJH_pw0TAoAZEjDg9Rz_EkR0Po0tS3V0wF6K5qKnfriMwPFr_byUmPcDfXqm1MNEgKQKrib1Cldts-5Cwv-PQJg.jpg?r=3eb",
-          title: "Joker",
-          desc: "A dark psychological story of chaos and madness.",
+          title: "SWAPPED",
+          desc: "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
         },
         {
           image: "https://variety.com/wp-content/uploads/2025/12/Avatar_Fire_and_Ash-vfx.jpg",
-          title: "Doctor Strange",
-          desc: "Magic and multiverse collide in epic battles.",
+          title: "AVATA",
+          desc: "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
         },
         {
           image: "https://m.media-amazon.com/images/S/pv-target-images/97cf1be17b309f9737aed20853df9222966c6b7a7c3e3f38f2e90660e28eb79c._SX1080_FMjpg_.jpg",
-          title: "Thor",
-          desc: "The god of thunder returns with powerful action.",
+          title: "ANACONDA",
+          desc: "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
         },
       ],
       // 2. Movie Grid Data moved cleanly inside data returning function
@@ -127,7 +259,9 @@ export default {
   width: 100%;
   height: 100%;
 }
-
+.logoFilm{
+  width: 100px;
+}
 img {
   width: 100%;
   height: 100%;
@@ -139,32 +273,25 @@ img {
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(100deg, #ffb300b1, #2564eb00); 
+  background: linear-gradient(100deg, #000000b1,#00000000, #ffbf0088); 
   padding: 20px;
   text-align: left;
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end; /* Keeps text gracefully pinned to the bottom */
+  justify-content: center; /* Keeps text gracefully pinned to the bottom */
 }
 
 .movie-info h1 {
   margin: 0 0 5px 0;
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .movie-info p {
   margin: 0;
   font-size: 16px;
-}
-
-.btn {
-  transition: all 0.2s;
-  width: fit-content;
-}
-
-.btn:hover {
-  box-shadow: 0 0 10px red;
+  max-width: 600px; /* This prevents the text from being too long */
+  line-height: 1.5;
 }
 
 </style>
