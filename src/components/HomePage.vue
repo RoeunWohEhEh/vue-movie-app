@@ -73,17 +73,17 @@ export default {
           desc: "A young hero learns responsibility and courage.",
         },
         {
-          image: "https://i.pinimg.com/1200x/f7/be/b4/f7beb40dfddcce4611546c3e10eace46.jpg",
+          image: "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQ5-l5fHQfFiVZy6zw0iTsnMVNpSA6ybc7WuQjMrFaM3pz7Xo-SYltJsFn5tmSPIDaMXtJH_pw0TAoAZEjDg9Rz_EkR0Po0tS3V0wF6K5qKnfriMwPFr_byUmPcDfXqm1MNEgKQKrib1Cldts-5Cwv-PQJg.jpg?r=3eb",
           title: "Joker",
           desc: "A dark psychological story of chaos and madness.",
         },
         {
-          image: "https://i.pinimg.com/1200x/97/6c/9f/976c9f28572614f6975d1609f5590a28.jpg",
+          image: "https://variety.com/wp-content/uploads/2025/12/Avatar_Fire_and_Ash-vfx.jpg",
           title: "Doctor Strange",
           desc: "Magic and multiverse collide in epic battles.",
         },
         {
-          image: "https://i.pinimg.com/736x/3b/09/8c/3b098c3e58aea5701bea4e9da8cc3c64.jpg",
+          image: "https://m.media-amazon.com/images/S/pv-target-images/97cf1be17b309f9737aed20853df9222966c6b7a7c3e3f38f2e90660e28eb79c._SX1080_FMjpg_.jpg",
           title: "Thor",
           desc: "The god of thunder returns with powerful action.",
         },
@@ -139,7 +139,7 @@ img {
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(100deg, #000000ad, #2564eb00); 
+  background: linear-gradient(100deg, #ffb300b1, #2564eb00); 
   padding: 20px;
   text-align: left;
   height: 100%;

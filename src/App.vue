@@ -7,38 +7,38 @@
         alt="Logo" 
         class="w-10 brightness-0 invert"
       />
-      <span class="text-aqua text-xl font-bold tracking-wide">
+      <span class="text-aqua text-xl font-bold tracking-wide hover:text-yellow-500">
         Movie
       </span>
     </div>
 
     <div class="hidden md:flex items-center gap-8">
-      <RouterLink to="/" class="hover:text-gray-300 transition-colors hover:translate-y-0.5">
+      <RouterLink to="/" class="hover:text-yellow-500 transition-colors hover:translate-y-0.5">
         Home
       </RouterLink>
-      <RouterLink to="/movie" class="hover:text-gray-300 transition-colors hover:translate-y-0.5">
+      <RouterLink to="/movie" class="hover:text-yellow-500 transition-colors hover:translate-y-0.5">
         Movie
       </RouterLink>
-      <RouterLink to="/about" class="hover:text-gray-300 transition-colors hover:translate-y-0.5">
+      <RouterLink to="/about" class="hover:text-yellow-500 transition-colors hover:translate-y-0.5">
         About
       </RouterLink>
-      <RouterLink to="/contact" class="hover:text-gray-300 transition-colors hover:translate-y-0.5">
+      <RouterLink to="/contact" class="hover:text-yellow-500 transition-colors hover:translate-y-0.5">
         Contact
       </RouterLink>
     </div>
 
     <div class="flex items-center gap-4">
-      <button class="hover:text-gray-300 transition-colors text-sm font-medium">
+      <button class="hover:text-yellow-500 transition-colors text-sm font-medium">
         Sign In
       </button>
-      <button class="bg-white text-black hover:bg-gray-200 transition-colors px-4 py-2 rounded-full text-sm font-semibold">
+      <button class="bg-white text-black hover:bg-yellow-500 hover:text-white transition-colors px-4 py-2 rounded-full text-sm font-semibold">
         Get Started
       </button>
     </div>
 
   </nav>
 
-  <RouterView></RouterView>
+  <RouterView :key="$route.fullPath" ></RouterView>
 </template>
 
 <script setup>
