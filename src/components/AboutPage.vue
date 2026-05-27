@@ -1,7 +1,7 @@
 <template>
   <div class="bg-black text-white min-h-screen">
     <!-- Banner -->
-    <div class="relative h-[280px]">
+    <div class="relative h-70">
       <img
         src="https://i.pinimg.com/1200x/a6/20/2b/a6202bb7fd8cea7886e0fb0c6709c5f8.jpg"
         alt="movie"

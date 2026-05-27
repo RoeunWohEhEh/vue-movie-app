@@ -30,10 +30,29 @@
     <div class="flex items-center gap-4">
       <button class="hover:text-yellow-500 transition-colors text-sm font-medium">
         Sign In
+<<<<<<< HEAD
       </button>
       <button class="bg-white text-black hover:bg-yellow-500 hover:text-white transition-colors px-4 py-2 rounded-full text-sm font-semibold">
+=======
+      </button> -->
+      <RouterLink
+        to="/signin"
+        class="hover:text-yellow-500 transition-colors text-sm font-medium"
+      >
+        Sign In
+      </RouterLink>
+      <!-- <button
+        class="bg-white text-black hover:bg-yellow-500 hover:text-white transition-colors px-4 py-2 rounded-full text-sm font-semibold"
+      >
+>>>>>>> 9578abc (complete-signin-signup-page)
         Get Started
-      </button>
+      </button> -->
+      <RouterLink
+        to="/movie"
+        class="bg-white text-black hover:bg-yellow-500 hover:text-white transition-colors px-4 py-2 rounded-full text-sm font-semibold"
+      >
+        Get Started
+      </RouterLink>
     </div>
 
   </nav>
