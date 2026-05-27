@@ -4,6 +4,7 @@ import ContactPage from '@/components/ContactPage.vue'
 import MoviesPage from '@/components/MoviesPage.vue'
 import Homepage from '@/components/HomePage.vue'
 import { createRouter, createWebHistory } from 'vue-router'
+import SignInPage from '@/components/SignInPage.vue'
 
 
 
@@ -33,6 +34,11 @@ const router = createRouter({
       name:'contact',
       component: ContactPage,
     },
+    {
+       path: '/signin',
+      name:'signin',
+      component: SignInPage,
+    }
 
     
   ]
