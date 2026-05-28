@@ -30,7 +30,7 @@
 
           <div class="flex items-center gap-4">
             <div class="bg-yellow-600 p-3 rounded-full">
-              📍
+              <i class="fa-solid fa-map-pin"></i>
             </div>
 
             <div>
@@ -46,7 +46,7 @@
 
           <div class="flex items-center gap-4">
             <div class="bg-yellow-600 p-3 rounded-full">
-              📧
+              <i class="fa-solid fa-envelope"></i>
             </div>
 
             <div>
@@ -62,7 +62,7 @@
 
           <div class="flex items-center gap-4">
             <div class="bg-yellow-600 p-3 rounded-full">
-              📞
+              <i class="fa-solid fa-phone"></i>
             </div>
 
             <div>

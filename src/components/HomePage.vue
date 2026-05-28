@@ -312,11 +312,14 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center; 
+  
 }
 
 .movie-info h1 {
-  margin: 0 0 5px 0;
-  font-size: 5rem;
+  margin: 0 0 40px 0;
+  font-size: 6rem;
+  color: rgb(255, 170, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .movie-info p {

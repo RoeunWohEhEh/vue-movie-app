@@ -1,57 +1,125 @@
 <template>
-  <div class="p-10">
-    <h1 class="text-4xl font-bold text-red-600">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae quos ullam qui sequi nesciunt est fuga odit commodi corrupti excepturi. Libero soluta non numquam laborum praesentium distinctio molestiae consequatur dolorum.
-      Expedita consequatur, odio ab a illum nostrum est itaque corrupti laboriosam provident, at maiores animi, minima quasi doloremque iusto ex dolores? Expedita distinctio fuga temporibus odio rerum? Libero, delectus cupiditate?
-      Ea odio, nihil veniam corporis delectus facere sit id harum quaerat obcaecati. Animi repellat aliquam minus libero porro corrupti natus quidem laborum molestiae inventore beatae, fugiat quibusdam ducimus nihil ratione.
-      Repellendus, laudantium quidem fuga, doloremque similique ducimus sint sapiente quibusdam rerum voluptatibus officiis, perferendis architecto aut voluptate. Exercitationem repellendus qui unde ducimus voluptatum adipisci, reiciendis officia debitis quae iusto nesciunt.
-      Aspernatur eos, veniam natus fugiat sed, tenetur similique, blanditiis aperiam distinctio maxime quas ab sunt libero perspiciatis odio voluptas reprehenderit obcaecati. Tempore repudiandae impedit aspernatur excepturi molestiae perferendis a temporibus!
-      Quibusdam fuga atque similique beatae dolore at minima reiciendis, distinctio alias reprehenderit, voluptas, est odio veniam recusandae aspernatur corporis cupiditate ullam sequi itaque. Quo sequi fugit accusamus nihil, odit mollitia?
-      Sed, ipsum cum voluptatem quae debitis quidem vero, aliquam labore velit modi ea distinctio voluptas tenetur fugit non, aspernatur maxime? Repellendus quam libero ratione ipsa enim soluta corporis reiciendis culpa.
-      Vel sapiente at sunt facere, quos consequuntur ex praesentium excepturi! Et iusto soluta quis! Enim, dolorum neque. Asperiores illum reiciendis fugiat quisquam quos repellendus cumque beatae dolorum, dolore corporis nemo.
-      Ipsa nobis numquam cum sunt sed aliquid deleniti nostrum, dolore quia sint, odit assumenda recusandae iure iste vel fugiat architecto dicta! Placeat beatae corrupti officia ipsum labore dolorum nobis fuga!
-      Optio officiis adipisci voluptas dolore fugit cum quasi iure distinctio labore corporis vitae quod, accusamus magnam est. Deserunt, culpa obcaecati laboriosam molestiae nesciunt expedita quam, odio, iure quasi temporibus vel.
-      Suscipit iure dignissimos hic cumque corrupti fugiat perferendis velit? Id eveniet nobis esse, qui eius ad facere aperiam similique repudiandae, eum ratione consequatur odit sed accusamus molestiae inventore! Incidunt, deserunt.
-      Doloremque vel eius quam, qui earum voluptates error dolores mollitia nisi! Suscipit fugiat, ex corporis dolorem necessitatibus nihil rem earum eos ratione enim nulla voluptatem aut nesciunt iste blanditiis ipsa?
-      Quidem, possimus blanditiis quasi cupiditate incidunt adipisci, corrupti delectus odit excepturi non rerum nostrum ratione ipsa minima suscipit magni dolorem. Eos qui eligendi eveniet blanditiis corrupti maiores placeat, iste odit?
-      Non esse voluptate aut, suscipit amet quod pariatur quo nisi nam tempora assumenda officia, impedit quasi sint repellat consequatur vero! Veniam, natus dolores qui hic quisquam voluptatem dolorem dolor aut.
-      Magni laudantium ipsa aperiam consectetur ratione! Temporibus architecto est accusamus odio assumenda vel, quod perferendis enim nisi voluptas in placeat doloremque quo distinctio similique vitae odit, at sed rem. Vel?
-      Similique accusantium accusamus qui quos iste, necessitatibus doloribus libero ipsa modi soluta a corporis saepe atque possimus tempora esse autem laborum voluptas quis quia molestiae. Qui ad quaerat animi consequuntur!
-      Dignissimos quis vel sit commodi qui illum laborum et odio, eum quae, asperiores optio laboriosam soluta voluptatibus nulla dolorem dolore totam provident, minus rerum. Maiores necessitatibus at optio omnis illo!
-      Cumque, soluta. Id minus sunt quisquam dignissimos aperiam debitis, inventore reprehenderit eum non cum quas illum eaque iste voluptatibus cupiditate cumque quia sequi culpa. Repellat vitae aspernatur corporis reiciendis blanditiis?
-      Ratione labore numquam aut et tenetur animi mollitia possimus fuga quibusdam. Voluptatem sit exercitationem perferendis cum tempore, quae consectetur autem enim. Tenetur doloremque nisi eius error iste laudantium atque similique!
-      Fugit minima veniam iure temporibus tempore similique cupiditate corporis! Commodi nostrum similique enim beatae omnis asperiores excepturi numquam voluptatum quam recusandae veniam reiciendis labore ex, dolore, corporis ipsa consequuntur! Delectus!
-      Officiis ea dolor nobis neque possimus ipsam aliquid praesentium saepe quam numquam assumenda minus enim illum vero in, tempora nisi animi, ipsum vel. Sint dignissimos magnam repellat quam, veniam provident.
-      Et cumque, sit dolor totam architecto vitae nihil esse quasi id maiores at illo hic? Minima alias maxime, cum ut dicta quia nam harum ea itaque. Eum accusantium nam numquam.
-      Nulla odio, laudantium ad quaerat molestias aliquid debitis quisquam reprehenderit corporis, voluptatibus adipisci accusamus ullam officia repellat! Laudantium nihil maxime, amet eveniet quod, aliquam consequatur ex, consequuntur quibusdam nisi assumenda.
-      Nemo error ipsa inventore, eius placeat doloremque numquam ad? Excepturi omnis, neque explicabo iste a quidem perferendis commodi, voluptatem nostrum magnam error unde itaque. Molestiae reiciendis delectus labore consequatur! Ducimus?
-      Perspiciatis tempore nesciunt minima consequatur necessitatibus nihil culpa doloremque! Aperiam molestiae sed optio tempora possimus, nulla unde provident sint ea ratione itaque officiis, ipsam expedita porro nobis nam, veniam rem.
-      Animi minima veniam veritatis voluptate, sapiente libero iure perferendis sint voluptas officia cumque nesciunt quasi facilis rem unde molestiae eveniet tenetur exercitationem eaque ab! Ex dolorem dolore obcaecati officia cum?
-      Impedit, ipsam esse! Et commodi provident fugiat delectus beatae odit nobis tempora ipsa amet temporibus saepe accusantium sint dolor aperiam alias, nam rem at obcaecati odio velit blanditiis? Fuga, temporibus?
-      Nobis quam maxime quaerat expedita nesciunt, sunt modi ut maiores velit ratione! Assumenda quos qui repellat nulla, officiis illo repudiandae quisquam. Quos hic error accusantium dolorum minus, odio reprehenderit iure.
-      Quo atque, incidunt illo in dignissimos animi sunt quis magni molestiae? Qui harum sed repudiandae, vitae eius voluptate error, iste nam numquam, aliquid fugit accusantium cum atque beatae eveniet hic.
-      Cum dolores enim, neque laborum cumque incidunt necessitatibus facilis ex quasi corrupti, praesentium cupiditate, aperiam consequuntur eos a tempore quibusdam ab velit culpa sequi. Nesciunt laborum quidem vero voluptatibus voluptatum.
-      Praesentium velit provident ad ab, soluta assumenda unde enim exercitationem modi voluptates! Ducimus debitis, itaque incidunt ullam laborum mollitia quam tempore veniam cupiditate exercitationem aliquid, distinctio quisquam illum eius in!
-      Totam aspernatur aliquam minima ullam doloremque doloribus hic amet! Reiciendis nemo excepturi pariatur repellat sapiente adipisci minima perspiciatis ullam voluptas numquam temporibus cum expedita amet, error molestiae voluptatum officia inventore?
-      Mollitia dignissimos a ipsam nesciunt. Earum sapiente impedit, iure temporibus aliquid sint magni ex incidunt quis reiciendis, itaque similique provident asperiores. Et aspernatur voluptas magni commodi dolor recusandae doloremque tenetur.
-      Nobis consequuntur in provident fugit iure pariatur tempore doloremque itaque, modi illum? Nemo iusto delectus, nam doloribus inventore voluptas atque ab vitae, quo officia iure quidem voluptatem officiis libero consectetur.
-      Provident nisi reiciendis ipsum odit laudantium natus beatae asperiores quas excepturi alias perferendis dolores, hic sint, quaerat, perspiciatis aspernatur commodi. Itaque, aliquid optio! Facilis modi magni reprehenderit accusamus et natus!
-      Ipsam officiis optio odio exercitationem, voluptatibus, inventore dolorem modi tempore dicta tenetur veritatis laborum cum, eius eaque dolor nesciunt ea esse? Velit saepe dolores sunt commodi quas, iste ut minus?
-      Maiores aut labore placeat quidem quae totam quibusdam aperiam laudantium praesentium exercitationem aliquid quia quo dolore dolor suscipit perspiciatis error numquam consequatur optio, atque libero saepe ab temporibus qui? Magnam.
-      Veniam, et. Enim, vero! Odit incidunt modi ipsa nihil consequuntur cum magni molestiae omnis dolorem, eum, doloribus fugit. Sint blanditiis modi aliquid incidunt libero doloribus impedit eos consequatur. Culpa, vero.
-      Odio facilis dicta voluptates nulla iste modi, hic odit voluptas facere, repellendus distinctio obcaecati libero saepe, quasi temporibus nisi in molestiae! Quaerat eveniet distinctio dolorem et deleniti architecto ex dolor!
-      Aliquid magnam fugiat incidunt inventore dicta, placeat deleniti tempore harum reprehenderit provident ipsum nulla expedita corrupti aperiam? Molestias, possimus nam! Ipsam similique optio nam fuga perspiciatis, placeat ab deserunt vero.
-      Neque ea maxime aut blanditiis nam officiis magnam optio soluta eos perspiciatis adipisci similique corporis enim eveniet, iusto sit doloribus, et assumenda. Corrupti incidunt minus, error vitae obcaecati animi consequuntur!
-      Quod delectus cumque voluptas, praesentium pariatur molestiae animi ullam itaque! In tempore cum sunt et quo excepturi tempora sed aliquam, eius aliquid harum voluptate assumenda velit. Modi iure et commodi?
-      Voluptatum corporis, voluptas optio eaque maxime ea veniam in deserunt minima amet consequuntur, labore, accusamus atque neque iure vel expedita cumque laboriosam repudiandae blanditiis omnis! Eveniet nisi suscipit accusamus similique.
-      Corporis officia sapiente similique, nihil quibusdam sit dolore nobis aspernatur, nam quia autem optio odio quidem fugiat ea eius dolorum. Sed optio aut iure ad in mollitia, commodi consectetur placeat.
-      Sit quos tempora ea doloremque quod quae iusto, dolore culpa facere aliquid consequatur perferendis magni aperiam reiciendis, voluptas esse quam autem earum! Eaque aliquid expedita distinctio omnis magni harum modi?
-      Atque in quisquam id nam sit exercitationem, cupiditate architecto voluptate quaerat at distinctio a minima natus vero tempore magni nisi rerum. Repellendus, nihil. Consequuntur, quo odit dolorem sint voluptatibus saepe.
-      Suscipit itaque nulla id placeat. Dolores ex perspiciatis perferendis laborum eius rerum recusandae, sint dignissimos distinctio nesciunt, laboriosam earum porro esse facilis eos pariatur alias natus mollitia ipsa commodi vero?
-      Dolore aperiam cum natus iusto iste eos doloremque aspernatur. Repellat in voluptatibus voluptates suscipit aliquid est iusto beatae, atque officia incidunt ratione! Cupiditate sit sequi, voluptate ex deserunt debitis nisi.
-      Quaerat natus accusamus nobis porro autem, explicabo repudiandae. Pariatur doloribus harum, maiores doloremque corporis quo libero animi amet ipsa neque repudiandae fuga voluptates nam unde vel quibusdam rem fugit molestiae!
-      Excepturi a quas autem consequatur sequi quibusdam odit deserunt necessitatibus beatae quae. Quaerat veritatis accusamus vero nulla odio error magnam qui voluptatem nam beatae, tempore pariatur eveniet impedit necessitatibus quia.
-
-    </h1>
+  <div class="max-w-3xl mx-auto my-8 p-4 bg-white rounded-xl shadow-md">
+    <h2 class="text-xl font-bold text-gray-800 mb-4 text-center">
+      Self-Hosted Video Player
+    </h2>
+    
+    <div class="overflow-hidden rounded-lg border border-gray-200 bg-black">
+      <video 
+        class="w-full h-auto aspect-video object-cover"
+        controls
+        preload="metadata"
+      >
+        <source :src="videoSource" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
   </div>
+
+   <section class="bg-gray-900 w-full min-h-screen p-6">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
+      
+      <RouterLink 
+        v-for="item in card"
+        :key="item.id"
+        :to="`/moviedetail/${item.id}`" 
+        class="bg-zinc-900 rounded-lg overflow-hidden shadow-lg hover:scale-102 transition-transform duration-300 block"
+      >
+        <div class="relative aspect-2/3 bg-zinc-800">
+          <img :src="item.poster || item.image" :alt="item.title" class="w-full h-full object-cover">
+          <span class="absolute top-2 right-2 bg-yellow-500 text-black text-xs font-bold px-2 py-1 rounded">
+            {{ item.rating }}
+          </span>
+        </div>
+        <div class="p-4">
+          <h3 class="text-white font-semibold text-base truncate">{{ item.title }}</h3>
+          <p class="text-zinc-400 text-xs mt-1">{{ item.year || item.releaseYear }} • {{ item.genre || item.genres?.[0] }}</p>
+        </div>
+      </RouterLink>
+
+    </div>
+  </section>
 </template>
+
+<script>
+import { Swiper, SwiperSlide } from 'swiper/vue'
+import { Autoplay } from 'swiper/modules'
+
+import 'swiper/css'
+import { ref } from 'vue'
+//video
+const videoSource=ref('src/components/03005b45d9a7_thumbsrc.mp4')
+// Your 12 distinct cards with varying IDs
+const card = ref([
+  { id: "1", title: 'Interstellar', rating: '8.7', year: '2014', genre: 'Sci-Fi', poster: 'https://i.pinimg.com/736x/b0/fa/a2/b0faa2e1f9e9e690797a299f605636b0.jpg' },
+  { id: "2", title: 'The Dark Knight', rating: '9.0', year: '2008', genre: 'Action', poster: 'https://i.pinimg.com/1200x/99/42/48/994248ff990568ddde53e3f61bff54cc.jpg' },
+  { id: "3", title: 'Inception', rating: '8.8', year: '2010', genre: 'Action', poster: 'https://i.pinimg.com/736x/de/68/50/de6850bd23d754b381c23465d0762865.jpg' },
+  { id: "4", title: 'Avatar: Water', rating: '7.6', year: '2022', genre: 'Sci-Fi', poster: 'https://i.pinimg.com/1200x/70/ae/10/70ae10692d5f2c923993f8b594090ffc.jpg' },
+  { id: "5", title: 'Spirited Away', rating: '8.6', year: '2001', genre: 'Animation', poster: 'https://i.pinimg.com/1200x/cd/b4/7d/cdb47d90e4a50ca21c869bb7a220d958.jpg' },
+  { id: "6", title: 'Gladiator', rating: '8.5', year: '2000', genre: 'Action', poster: 'https://i.pinimg.com/736x/c9/e8/5b/c9e85bafb5654fec812df197a97ba216.jpg' },
+  { id: "7", title: 'The Matrix', rating: '8.7', year: '1999', genre: 'Sci-Fi', poster: 'https://i.pinimg.com/736x/e8/fc/8b/e8fc8b7db4b2313fe4b344715ac63739.jpg' },
+  { id: "8", title: 'Whiplash', rating: '8.5', year: '2014', genre: 'Drama', poster: 'https://i.pinimg.com/1200x/e1/52/40/e152405eddd244b74e24931deef63228.jpg' },
+  { id: "9", title: 'Parasite', rating: '8.5', year: '2019', genre: 'Thriller', poster: 'https://i.pinimg.com/736x/97/95/d5/9795d5228e2f0ed06658709ea5c0bff3.jpg' },
+  { id: "10", title: 'Spider-Verse', rating: '8.4', year: '2018', genre: 'Animation', poster: 'https://i.pinimg.com/736x/bc/92/5a/bc925af0eac11cc3274a187ca66a6311.jpg' },
+  { id: "11", title: 'The Lion King', rating: '8.5', year: '1994', genre: 'Animation', poster: 'https://i.pinimg.com/736x/e8/fc/d5/e8fcd50d5c5dc49770239f4f8f161723.jpg' },
+  { id: "12", title: 'Dune: Part Two', rating: '8.6', year: '2024', genre: 'Sci-Fi', poster: 'https://i.pinimg.com/736x/b0/32/19/b032198e8bfd8d8cc1567307a128895e.jpg' }
+])
+export default {
+  components: {
+    Swiper,
+    SwiperSlide,
+  },
+  data() {
+    return {
+      swiperModules: [Autoplay],
+      logoUrl: "src/components/film.png",
+      movies: [
+        {
+          image: "https://i.pinimg.com/1200x/8a/01/59/8a015975df909a24d6b0c0d6377e1bf2.jpg",
+          title: "MICHAEL",
+          desc: "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+        },
+        {
+          image: "https://edmondtownhall.org/wp-content/uploads/2026/04/goat-1.png",
+          title: "GOAT",
+          desc: "A young anthropomorphic goat named Will Harris dreams of playing roar-ball, a high-intensity, animalistic version of basketball dominated by much larger, fiercer creatures.",
+        },
+        {
+          image: "https://m.media-amazon.com/images/S/pv-target-images/52cf86f6994526923cac7dfba13b97a1b247560ccbf40edef2fd56daa24e3572.jpg",
+          title: "HOPPERS",
+          desc: "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals.",
+        },
+        {
+          image: "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQQ5-l5fHQfFiVZy6zw0iTsnMVNpSA6ybc7WuQjMrFaM3pz7Xo-SYltJsFn5tmSPIDaMXtJH_pw0TAoAZEjDg9Rz_EkR0Po0tS3V0wF6K5qKnfriMwPFr_byUmPcDfXqm1MNEgKQKrib1Cldts-5Cwv-PQJg.jpg?r=3eb",
+          title: "SWAPPED",
+          desc: "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime.",
+        },
+        {
+          image: "https://variety.com/wp-content/uploads/2025/12/Avatar_Fire_and_Ash-vfx.jpg",
+          title: "AVATAR",
+          desc: "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang.",
+        },
+        {
+          image: "https://m.media-amazon.com/images/S/pv-target-images/97cf1be17b309f9737aed20853df9222966c6b7a7c3e3f38f2e90660e28eb79c._SX1080_FMjpg_.jpg",
+          title: "ANACONDA",
+          desc: "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives.",
+        },
+      ],
+      card: [
+        { id: 1, title: 'The Batman', year: 2022, genre: 'Action', rating: '8.5', image: 'https://i.pinimg.com/736x/b0/fa/a2/b0faa2e1f9e9e690797a299f605636b0.jpg' },
+        { id: 2, title: 'Dune: Part Two', year: 2024, genre: 'Sci-Fi', rating: '8.6', image: 'https://i.pinimg.com/1200x/99/42/48/994248ff990568ddde53e3f61bff54cc.jpg' },
+        { id: 3, title: 'Oppenheimer', year: 2023, genre: 'Drama', rating: '8.4', image: 'https://i.pinimg.com/736x/de/68/50/de6850bd23d754b381c23465d0762865.jpg' },
+        { id: 4, title: 'Interstellar', year: 2014, genre: 'Sci-Fi', rating: '8.7', image: 'https://i.pinimg.com/1200x/70/ae/10/70ae10692d5f2c923993f8b594090ffc.jpg' },
+        { id: 5, title: 'Inception', year: 2010, genre: 'Action', rating: '8.8', image: 'https://i.pinimg.com/1200x/cd/b4/7d/cdb47d90e4a50ca21c869bb7a220d958.jpg' },
+        { id: 6, title: 'Spider-Man: Beyond the Spider-Verse', year: 2026, genre: 'Animation', rating: '9.0', image: 'https://i.pinimg.com/736x/c9/e8/5b/c9e85bafb5654fec812df197a97ba216.jpg' },
+        { id: 7, title: 'Gladiator II', year: 2024, genre: 'Action', rating: '7.5', image: 'https://i.pinimg.com/736x/e8/fc/8b/e8fc8b7db4b2313fe4b344715ac63739.jpg' },
+        { id: 8, title: 'Everything Everywhere All at Once', year: 2022, genre: 'Adventure', rating: '8.0', image: 'https://i.pinimg.com/1200x/e1/52/40/e152405eddd244b74e24931deef63228.jpg' },
+        { id: 9, title: 'Blade Runner 2049', year: 2017, genre: 'Sci-Fi', rating: '8.0', image: 'https://i.pinimg.com/736x/97/95/d5/9795d5228e2f0ed06658709ea5c0bff3.jpg' },
+        { id: 10, title: 'Mad Max: Fury Road', year: 2015, genre: 'Action', rating: '8.1', image: 'https://i.pinimg.com/736x/bc/92/5a/bc925af0eac11cc3274a187ca66a6311.jpg' },
+        { id: 11, title: 'Parasite', year: 2019, genre: 'Thriller', rating: '8.5', image: 'https://i.pinimg.com/736x/e8/fc/d5/e8fcd50d5c5dc49770239f4f8f161723.jpg' },
+        { id: 12, title: 'Avatar: Fire and Ash', year: 2025, genre: 'Sci-Fi', rating: '7.8', image: 'https://i.pinimg.com/736x/b0/32/19/b032198e8bfd8d8cc1567307a128895e.jpg' }
+      ]
+    }
+  }
+}
+</script>
