@@ -16,7 +16,7 @@
         <div class="movie-info">
           <h1 class="font-bold">{{ movie.title }}</h1>
           <p>{{ movie.desc }}</p>
-          <button class="bg-yellow-500 w-50 mt-3 p-2 rounded-sm font-bold shadow-xs hover:shadow-yellow-600">
+          <button class="bg-yellow-500 w-40 mt-3 p-2 rounded-sm font-bold shadow-xs text-black">
             Watch Now
           </button>
         </div>
@@ -24,7 +24,12 @@
     </SwiperSlide>
   </Swiper>
  
-  <h1 class="bg-gray-900 text-white font-bold text-3xl p-4 hover:text-amber-400">Movie Trending</h1>
+  <div class="flex bg-gray-900 items-center justify-between border-b border-zinc-800 pb-4">
+    <h3 class="text-3xl font-bold tracking-tight text-zinc-100 flex items-center gap-2 mt-2 ml-3.5">
+      <span class="w-1 h-5 bg-yellow-500 rounded-full"></span>
+          Trending Now
+      </h3>
+  </div>
 
   <!-- card -->
   <section class="bg-gray-900 w-full min-h-screen p-6">
@@ -316,9 +321,8 @@ img {
 }
 
 .movie-info h1 {
-  margin: 0 0 40px 0;
+  margin: 0 0 10px 0;
   font-size: 6rem;
-  color: rgb(255, 170, 0);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
