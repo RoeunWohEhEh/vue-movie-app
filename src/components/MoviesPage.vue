@@ -48,7 +48,8 @@ import { Autoplay } from 'swiper/modules'
 import 'swiper/css'
 import { ref } from 'vue'
 //video
-const videoSource=ref('src/components/03005b45d9a7_thumbsrc.mp4')
+// const videoSource=ref('src/components/03005b45d9a7_thumbsrc.mp4')
+import movieVideo from '@/assets/video/movie.mp4'
 // Your 12 distinct cards with varying IDs
 const card = ref([
   { id: "1", title: 'Interstellar', rating: '8.7', year: '2014', genre: 'Sci-Fi', poster: 'https://i.pinimg.com/736x/b0/fa/a2/b0faa2e1f9e9e690797a299f605636b0.jpg' },
@@ -71,6 +72,7 @@ export default {
   },
   data() {
     return {
+      videoSource: movieVideo,
       swiperModules: [Autoplay],
       logoUrl: "src/components/film.png",
       movies: [
