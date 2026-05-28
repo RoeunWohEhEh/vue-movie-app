@@ -84,7 +84,6 @@
                     class="inline w-full rounded-md border border-gray-600 bg-slate-900/90 text-white py-2.5 pl-3 pr-3 leading-5 placeholder-gray-400 focus:border-amber-500 focus:placeholder-gray-500 focus:outline-none focus:ring-1 focus:ring-amber-500 sm:text-sm" 
                     placeholder="Search another movie..." 
                     type="search" 
-                    autofocus="" 
                     value=""
                 >
                 <button 

@@ -9,11 +9,11 @@
         alt="Logo"
         class="w-10 brightness-0 invert"
       />
-      <span
-        class="text-aqua text-xl font-bold tracking-wide hover:text-yellow-500"
+      <a href="#"
+        class="text-aqua text-2xl font-bold tracking-wide hover:text-yellow-500"
       >
-        Movie
-      </span>
+        CinemaGo
+      </a>
     </div>
 
     <div class="hidden md:flex items-center gap-8">

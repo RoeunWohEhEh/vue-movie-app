@@ -25,7 +25,7 @@
   </Swiper>
  
   <div class="flex bg-gray-900 items-center justify-between border-b border-zinc-800 pb-4">
-    <h3 class="text-3xl font-bold tracking-tight text-zinc-100 flex items-center gap-2 mt-2 ml-3.5">
+    <h3 class="text-2xl font-bold tracking-tight text-zinc-100 flex items-center gap-2 mt-5 ml-3.5">
       <span class="w-1 h-5 bg-yellow-500 rounded-full"></span>
           Trending Now
       </h3>
@@ -65,9 +65,8 @@
                   id="q" 
                   name="q" 
                   class="inline w-full rounded-md border border-gray-300 bg-white py-2 pl-3 pr-3 leading-5 placeholder-gray-500 focus:border-yellow-500 focus:placeholder-gray-400 focus:outline-none focus:ring-1 focus:ring-yellow-500 sm:text-sm" 
-                  placeholder="Keyword" 
+                  placeholder="" 
                   type="search" 
-                  autofocus="" 
                   value=""
               >
               <button 
@@ -79,7 +78,7 @@
           </form>
       </div>
   </div>
-
+  <!-- footer -->
   <footer class="bg-gray-800 text-white pt-16 pb-8 px-4 md:px-12 lg:px-24 font-sans relative">
     <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
       
@@ -90,23 +89,23 @@
         </div>
         
         <div>
-          <h3 class="text-[#ff9900] font-semibold text-lg mb-2">About Us</h3>
+          <h3 class="text-yellow-500 font-semibold text-lg mb-2">About Us</h3>
           <p class="text-sm text-gray-300 leading-relaxed max-w-xs">
             We want to help bring talented students and unique startups together.
           </p>
         </div>
         
         <div>
-          <h3 class="text-[#ff9900] font-semibold text-lg mb-3">Contact Us</h3>
+          <h3 class="text-yellow-500 font-semibold text-lg mb-3">Contact Us</h3>
           <div class="space-y-2 text-sm text-gray-300">
             <div class="flex items-center gap-3">
-              <svg class="w-4 h-4 text-[#ff9900]" fill="currentColor" viewBox="0 0 24 24">
+              <svg class="w-4 h-4 text-yellow-500" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M21.384 17.791l-3.765-1.613c-.61-.261-1.314-.11-1.762.338l-1.63 1.63c-3.111-1.583-5.653-4.125-7.236-7.236l1.63-1.63c.448-.448.599-1.152.338-1.762L7.346 1.756A1.5 1.5 0 005.616 1h-3A1.5 1.5 0 001.12 2.56c.725 9.948 8.617 17.84 18.565 18.565a1.5 1.5 0 001.558-1.496v-3a1.5 1.5 0 00-.859-1.338z"/>
               </svg>
               <span>+91 9999 999 999</span>
             </div>
             <div class="flex items-center gap-3">
-              <svg class="w-4 h-4 text-[#ff9900]" fill="currentColor" viewBox="0 0 24 24">
+              <svg class="w-4 h-4 text-yellow-500" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
               </svg>
               <span>youremailid.com</span>
@@ -116,23 +115,23 @@
       </div>
 
       <div>
-        <h3 class="text-[#ff9900] font-semibold text-lg mb-4">Information</h3>
+        <h3 class="text-yellow-500 font-semibold text-lg mb-4">Information</h3>
         <ul class="space-y-2 text-sm text-gray-300">
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">About Us</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">More Search</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Blog</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Testimonials</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Events</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">About Us</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">More Search</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Blog</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Testimonials</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Events</a></li>
         </ul>
       </div>
 
       <div>
-        <h3 class="text-[#ff9900] font-semibold text-lg mb-4">Helpful Links</h3>
+        <h3 class="text-yellow-500 font-semibold text-lg mb-4">Helpful Links</h3>
         <ul class="space-y-2 text-sm text-gray-300">
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Services</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Supports</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Terms & Condition</a></li>
-          <li><a href="#" class="hover:text-[#ff9900] transition-colors">Privacy Policy</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Services</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Supports</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Terms & Condition</a></li>
+          <li><a href="#" class="hover:text-yellow-500 transition-colors">Privacy Policy</a></li>
         </ul>
       </div>
 
@@ -151,13 +150,13 @@
               class="w-full bg-white text-black pl-10 pr-4 py-2.5 rounded-sm focus:outline-none text-sm placeholder-gray-500"
             />
           </div>
-          <button class="bg-[#ff9900] text-white px-6 py-2 rounded-sm text-sm font-medium hover:bg-[#e68a00] transition-colors shadow-md">
+          <button class="bg-yellow-500 text-white px-6 py-2 rounded-sm text-sm font-medium hover:bg-[#e68a00] transition-colors shadow-md">
             Subscribe
           </button>
         </div>
 
         <div class="flex justify-end mt-6 lg:mt-0">
-          <a href="#" class="bg-[#ff9900] p-2 rounded-sm hover:bg-[#e68a00] transition-colors" aria-label="Back to top">
+          <a href="#" class="bg-yellow-500 p-2 rounded-sm hover:bg-[#e68a00] transition-colors" aria-label="Back to top">
             <svg class="w-4 h-4 text-black font-bold" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
             </svg>
@@ -172,22 +171,22 @@
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
       
       <div class="flex justify-center items-center gap-3 md:flex-1 md:pl-32">
-        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+        <a href="#" class="w-8 h-8 rounded-full bg-yellow-500 flex items-center justify-center text-black hover:bg-white transition-colors">
           <i class="fa-brands fa-facebook"></i>
         </a>
-        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+        <a href="#" class="w-8 h-8 rounded-full bg-yellow-500 flex items-center justify-center text-black hover:bg-white transition-colors">
           <i class="fa-brands fa-tiktok"></i>
         </a>
-        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+        <a href="#" class="w-8 h-8 rounded-full bg-yellow-500 flex items-center justify-center text-black hover:bg-white transition-colors">
           <i class="fa-brands fa-instagram"></i>
         </a>
-        <a href="#" class="w-8 h-8 rounded-full bg-[#ff9900] flex items-center justify-center text-black hover:bg-white transition-colors">
+        <a href="#" class="w-8 h-8 rounded-full bg-yellow-500 flex items-center justify-center text-black hover:bg-white transition-colors">
           <i class="fa-brands fa-twitter"></i>
         </a>
       </div>
 
       <div class="text-xs text-gray-400 text-center md:text-right">
-        2018 &copy; company.Ltd. All Right reserved
+        2026 &copy; company.Ltd. All Right reserved
       </div>
 
     </div>
@@ -258,18 +257,18 @@ export default {
         },
       ],
       card: [
-        { id: 1, title: 'The Batman', year: 2022, genre: 'Action', rating: '8.5', image: 'https://i.pinimg.com/736x/b0/fa/a2/b0faa2e1f9e9e690797a299f605636b0.jpg' },
-        { id: 2, title: 'Dune: Part Two', year: 2024, genre: 'Sci-Fi', rating: '8.6', image: 'https://i.pinimg.com/1200x/99/42/48/994248ff990568ddde53e3f61bff54cc.jpg' },
-        { id: 3, title: 'Oppenheimer', year: 2023, genre: 'Drama', rating: '8.4', image: 'https://i.pinimg.com/736x/de/68/50/de6850bd23d754b381c23465d0762865.jpg' },
-        { id: 4, title: 'Interstellar', year: 2014, genre: 'Sci-Fi', rating: '8.7', image: 'https://i.pinimg.com/1200x/70/ae/10/70ae10692d5f2c923993f8b594090ffc.jpg' },
-        { id: 5, title: 'Inception', year: 2010, genre: 'Action', rating: '8.8', image: 'https://i.pinimg.com/1200x/cd/b4/7d/cdb47d90e4a50ca21c869bb7a220d958.jpg' },
-        { id: 6, title: 'Spider-Man: Beyond the Spider-Verse', year: 2026, genre: 'Animation', rating: '9.0', image: 'https://i.pinimg.com/736x/c9/e8/5b/c9e85bafb5654fec812df197a97ba216.jpg' },
-        { id: 7, title: 'Gladiator II', year: 2024, genre: 'Action', rating: '7.5', image: 'https://i.pinimg.com/736x/e8/fc/8b/e8fc8b7db4b2313fe4b344715ac63739.jpg' },
-        { id: 8, title: 'Everything Everywhere All at Once', year: 2022, genre: 'Adventure', rating: '8.0', image: 'https://i.pinimg.com/1200x/e1/52/40/e152405eddd244b74e24931deef63228.jpg' },
-        { id: 9, title: 'Blade Runner 2049', year: 2017, genre: 'Sci-Fi', rating: '8.0', image: 'https://i.pinimg.com/736x/97/95/d5/9795d5228e2f0ed06658709ea5c0bff3.jpg' },
-        { id: 10, title: 'Mad Max: Fury Road', year: 2015, genre: 'Action', rating: '8.1', image: 'https://i.pinimg.com/736x/bc/92/5a/bc925af0eac11cc3274a187ca66a6311.jpg' },
-        { id: 11, title: 'Parasite', year: 2019, genre: 'Thriller', rating: '8.5', image: 'https://i.pinimg.com/736x/e8/fc/d5/e8fcd50d5c5dc49770239f4f8f161723.jpg' },
-        { id: 12, title: 'Avatar: Fire and Ash', year: 2025, genre: 'Sci-Fi', rating: '7.8', image: 'https://i.pinimg.com/736x/b0/32/19/b032198e8bfd8d8cc1567307a128895e.jpg' }
+        { id: 1, title: 'goat', year: 2026, genre: 'Action', rating: '8.5', image: 'https://i.pinimg.com/736x/b0/fa/a2/b0faa2e1f9e9e690797a299f605636b0.jpg' },
+        { id: 2, title: 'hail mary', year: 2026, genre: 'Sci-Fi', rating: '8.6', image: 'https://i.pinimg.com/1200x/99/42/48/994248ff990568ddde53e3f61bff54cc.jpg' },
+        { id: 3, title: 'hoppers', year: 2026, genre: 'Drama', rating: '8.4', image: 'https://i.pinimg.com/736x/de/68/50/de6850bd23d754b381c23465d0762865.jpg' },
+        { id: 4, title: '7 scream', year: 2026, genre: 'Sci-Fi', rating: '8.7', image: 'https://i.pinimg.com/1200x/70/ae/10/70ae10692d5f2c923993f8b594090ffc.jpg' },
+        { id: 5, title: 'avatar 3', year: 2025, genre: 'Action', rating: '8.8', image: 'https://i.pinimg.com/1200x/cd/b4/7d/cdb47d90e4a50ca21c869bb7a220d958.jpg' },
+        { id: 6, title: 'badlands', year: 2025, genre: 'Animation', rating: '9.0', image: 'https://i.pinimg.com/736x/c9/e8/5b/c9e85bafb5654fec812df197a97ba216.jpg' },
+        { id: 7, title: 'michael', year: 2025, genre: 'Action', rating: '7.5', image: 'https://i.pinimg.com/736x/e8/fc/8b/e8fc8b7db4b2313fe4b344715ac63739.jpg' },
+        { id: 8, title: 'swapped', year: 2026, genre: 'Adventure', rating: '8.0', image: 'https://i.pinimg.com/1200x/e1/52/40/e152405eddd244b74e24931deef63228.jpg' },
+        { id: 9, title: 'mickey 17', year: 2025, genre: 'Sci-Fi', rating: '8.0', image: 'https://i.pinimg.com/736x/97/95/d5/9795d5228e2f0ed06658709ea5c0bff3.jpg' },
+        { id: 10, title: 'monarch', year: 2025, genre: 'Action', rating: '8.1', image: 'https://i.pinimg.com/736x/bc/92/5a/bc925af0eac11cc3274a187ca66a6311.jpg' },
+        { id: 11, title: 'avatar', year: 2025, genre: 'Thriller', rating: '8.5', image: 'https://i.pinimg.com/736x/e8/fc/d5/e8fcd50d5c5dc49770239f4f8f161723.jpg' },
+        { id: 12, title: 'anaconda', year: 2025, genre: 'Sci-Fi', rating: '7.8', image: 'https://i.pinimg.com/736x/b0/32/19/b032198e8bfd8d8cc1567307a128895e.jpg' }
       ]
     }
   }
